@@ -1,14 +1,4 @@
-# Store-Sales-Dashboard
-An interactive Store Sales Dashboard built with Microsoft Power BI to analyze sales performance, profit trends, customer segments, payment methods, shipping modes, and regional sales using business intelligence techniques.
 # 📊 Store Sales Dashboard | Power BI
-
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue)
-![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
-![Excel](https://img.shields.io/badge/Excel-Data%20Source-darkgreen)
-![License](https://img.shields.io/badge/License-MIT-blue)
-
----
 
 # 📌 Project Overview
 
@@ -17,6 +7,8 @@ The Store Sales Dashboard is an interactive Power BI solution designed to monito
 The dashboard provides business users with clear visual insights into sales, profit, quantity sold, and delivery performance, enabling data-driven decision-making.
 
 ---
+## Dataset used
+- <a href="
 
 # 🎯 Business Problem
 
