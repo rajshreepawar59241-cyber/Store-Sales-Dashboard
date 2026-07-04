@@ -181,21 +181,6 @@ Based on dashboard insights:
 # 📷 Dashboard Preview
 <img width="613" height="343" alt="store_sales_db" src="https://github.com/user-attachments/assets/576be220-cb92-4437-9743-d77c7ddb9066" />
 
-
----
-
-# 📁 Repository Structure
-
-```
-Store-Sales-Dashboard-PowerBI
-│
-├── Store Sales Dashboard.pbix
-├── Store_Sales_Data.xlsx
-├── README.md
-└── screenshots
-      └── store_sales_dashboard.png
-```
-
 ---
 
 # 🚀 Future Enhancements
@@ -207,7 +192,7 @@ Store-Sales-Dashboard-PowerBI
 - Inventory Analytics
 - Customer Lifetime Value Analysis
 
----
+--
 
 # 🎯 Conclusion
 
@@ -219,17 +204,3 @@ This project demonstrates practical expertise in Power BI, DAX, Power Query, dat
 
 ---
 
-
-### Skills
-
-- Microsoft Power BI
-- SQL
-- Python
-- Microsoft Excel
-- Power Query
-- DAX
-- Data Visualization
-- Business Intelligence
----
-
-⭐ If you found this project useful, consider giving it a Star on GitHub.
