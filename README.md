@@ -25,6 +25,7 @@ This dashboard answers important business questions such as:
 
 ---
 ## Dashboard Interaction
+- <a href="https://github.com/rajshreepawar59241-cyber/Store-Sales-Dashboard/blob/main/store_sales_db.png">View Dashboard</a>
 
 # 🎯 Project Objectives
 
