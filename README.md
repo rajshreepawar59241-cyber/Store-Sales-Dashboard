@@ -51,27 +51,6 @@ This dashboard answers important business questions such as:
 
 ---
 
-# 📂 Dataset
-
-The dashboard is built using a retail store sales dataset containing transactional information.
-
-### Dataset Includes
-
-- Order ID
-- Customer Segment
-- Region
-- State
-- Category
-- Sub-Category
-- Sales
-- Profit
-- Quantity
-- Payment Mode
-- Ship Mode
-- Order Date
-
----
-
 # 📊 Key Performance Indicators (KPIs)
 
 | KPI | Value |
@@ -200,8 +179,8 @@ Based on dashboard insights:
 ---
 
 # 📷 Dashboard Preview
+<img width="613" height="343" alt="store_sales_db" src="https://github.com/user-attachments/assets/576be220-cb92-4437-9743-d77c7ddb9066" />
 
-![Store Sales Dashboard](screenshots/store_sales_dashboard.png)
 
 ---
 
