@@ -8,7 +8,7 @@ The dashboard provides business users with clear visual insights into sales, pro
 
 ---
 ## Dataset used
-- <a href="
+- <a href="https://github.com/rajshreepawar59241-cyber/Store-Sales-Dashboard/blob/main/Store_Sales_Dataset.csv">ales Dataset</a>
 
 # 🎯 Business Problem
 
