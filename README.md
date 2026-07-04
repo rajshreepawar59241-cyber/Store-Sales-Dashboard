@@ -178,7 +178,7 @@ Based on dashboard insights:
 
 ---
 
-# 📷 Dashboard Preview
+# 📷 Dashboard 
 <img width="613" height="343" alt="store_sales_db" src="https://github.com/user-attachments/assets/576be220-cb92-4437-9743-d77c7ddb9066" />
 
 ---
